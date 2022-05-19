@@ -1,0 +1,10 @@
+Distributions v0.25.58
+IJulia v1.23.3
+LinearAlgebra
+PGFPlots v3.4.2 
+ColorSchemes v3.18.0
+Colors v0.12.8
+TikzPictures v3.4.2 
+`https://github.com/JuliaTeX/PGFPlots.jl.git#master`
+`https://github.com/JuliaTeX/TikzPictures.jl#master`
+
